@@ -98,6 +98,3 @@ A session led by inspiring women that have built a successful career in the IT s
   </tr>
 </table>
 
-
-#### 🎧 I love music! | Spotify Playing
-[<img src="https://spotify-now-playing-kappa.vercel.app/api/spotify-playing" alt="spotify playing" width="350" />]()
